@@ -11,6 +11,3 @@ st.title('Hello Wilders, welcome to my application!')
 
 
 st.write("Here you can find some of my projects (WIP)")
-
-
-print(np.version())
